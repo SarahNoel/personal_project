@@ -1,0 +1,229 @@
+body {
+  background-image: url("http://www.tema-ks.com/images/mrks_bckg.png");
+  background-color: #1FB496;
+  background-size: cover;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
+}
+
+header{
+  margin: 0 1.5% 24px 1.5%;
+  position: relative;
+  border:2px solid black;
+  background-color: #62cab5;
+  padding:5px;
+  text-align: left;
+  text-indent: 10px;
+}
+
+#me{
+  width: 45%;
+  float: left;
+  border: 1px solid black;
+  padding: 1px;
+}
+
+#interests{
+  position: relative;
+  margin-left: 50%;
+  text-align: left;
+  padding-bottom: 50px;
+}
+
+#kitty, #snow {
+  position: relative;
+  width: 45%;
+  border: 1px solid black;
+  padding: 1px;
+  float: right;
+  text-indent: center;
+}
+
+#lamp{
+  position: relative;
+  width: 45%;
+  float: left;
+  border: 1px solid black;
+  padding: 1px;
+}
+
+#history{
+  position: relative; top: 50px;
+  clear: both;
+  padding: 10px;
+  background-image: url("http://www.theuntappedsource.com/image.php?id=45856");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  text-align: left;
+  font-weight: bold;
+}
+
+.transbox{
+  margin: 50px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity:0.6;
+  padding:25px;
+}
+
+#family{
+  margin: 0 1.5% 24px 1.5%;
+  clear: both;
+    position: relative; top: 50px;  bottom: 50px;
+    padding:15px;
+}
+
+.fam{
+  width: 50%
+}
+
+
+.footer {
+  position:relative;
+  clear: both;
+  margin-bottom: 0;
+  border:1px solid black;
+  background-color: #DAFF74;
+  width: 100%;
+  height: 75px;
+  vertical-align: center;
+}
+
+h1 {font-size: 45px;
+  text-align: left;
+  vertical-align: top;
+    text-decoration: underline;
+    text-indent: 10px;
+    color: #E15258;
+    text-shadow: 3px 3px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+h2{
+  color:#54a8c2;
+  font-size: 30px;
+  text-shadow: 2px 2px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+    text-decoration: underline;
+}
+
+h3{color:#d4c844;
+  font-size: 20px;
+  text-shadow: 2px 2px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+  text-indent: 5px;
+  text-align: left;
+  background-color: #a7a69c;
+  padding:10px;
+}
+
+/* This is the css for page 2 */
+
+header2{
+  margin: 0 1.5% 24px 1.5%;
+  position: relative;
+  border:2px solid black;
+  background: url(http://bit.ly/1GOQ3Zb) #E15258 right top no-repeat;
+  padding:1px;
+  text-align: left;
+  text-indent: 10px;
+}
+
+#big {
+  font-size: 45px;
+  text-align: left;
+  vertical-align: top;
+    text-decoration: underline;
+    text-indent: 10px;
+    color: #62cab5;
+    font-style: bold;
+    text-shadow: 3px 3px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+#catgif{
+  width: 30%;
+  border: 1px solid black;
+  padding: 1px;
+}
+
+#kittygif{
+  width: 28%;
+}
+
+#large{
+  font-size: 35px;
+  text-align: center;
+  vertical-align: top;
+    text-decoration: underline;
+    text-indent: 10px;
+    color: #9974FF;
+    text-shadow: 3px 3px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+#class {
+  float: left;
+  width: 25%;
+  border: 2px solid black;
+  margin: 1px;
+  padding: 3px;
+}
+
+.caption {
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  float: left;
+}
+
+.kids{
+  width: 100%;
+  clear: both;
+}
+
+#learn {
+  float: right;
+  width: 35%;
+  border: 2px solid black;
+  margin: 1px;
+  padding: 3px;
+}
+
+#future{
+  margin-left: 30%;
+  margin-right: 3%;
+  margin-bottom: 3%;
+}
+
+.button{
+	height: 60px;
+	width: 140px;
+	background-color: #1FB496;
+  	background-size: cover;
+  	font-family: "Trebuchet MS", Helvetica, sans-serif;
+  	font-size: 14px;
+  	text-align: center;
+  	margin-right: 40%;
+}
+
+.party{
+	display: none;
+	border: 4px dashed black;
+}
