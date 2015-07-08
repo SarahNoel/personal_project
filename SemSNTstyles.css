@@ -79,7 +79,7 @@ header{
 }
 
 
-.footer {
+footer {
   position:relative;
   clear: both;
   margin-bottom: 0;
@@ -129,7 +129,7 @@ h3{color:#d4c844;
 
 /* This is the css for page 2 */
 
-header2{
+#header2{
   margin: 0 1.5% 24px 1.5%;
   position: relative;
   border:2px solid black;
